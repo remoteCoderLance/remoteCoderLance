@@ -5,7 +5,7 @@ My name is Cedric ABBEY, I'm a Senior Full Stack Developer, AI & ML, Data Analys
 - 🔭 I’m currently working on [Algorithmic Trading Bot](https://www.linkedin.com/feed/) building features for my own purpose.
 - 🌱 I recently built a program that automatically send code to github repositories without human intervention & that create a new repositories if doesn't exist.
 - 👯 I’m looking to collaborate on Amazing projects including those powered by AI & ML.
-      Get in Touch to: remotecoderlance@gmail.com
+     - Get in Touch to: remotecoderlance@gmail.com
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 
