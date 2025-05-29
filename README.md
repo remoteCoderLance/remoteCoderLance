@@ -1,17 +1,12 @@
-## Hi there 👋 My name is Cedric ABBEY,
-### I'm a Senior Full Stack Developer, AI & ML, Data Analyst Specialist, Automation Engineer Algorithmic Trader and I also craft beautiful 3D Artwork!
+## 💫 About Me:
+## #I am  Cedric ABBEY; a Senior Full Stack Developer, AI & ML Specialist, Data Analyst, Automation Engineer, Algorithmic Trader and I also craft beautiful 3D Artwork!
 
 - 🔭 I’m currently working on [Algorithmic Trading Bot](https://www.linkedin.com/feed/) building features for my own purpose.
 - 🌱 I recently built a program that automatically send code to github repositories [here](visua.com) without human intervention & that create a new repositories if doesn't exist.
 - 👯 I’m looking to collaborate on Amazing projects including those powered by AI & ML.
      - Get in Touch: remotecoderlance@gmail.com
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-
-
-# 💫 About Me:
-My name is Cedric ABBEY, I'm a Senior Full Stack Developer, AI & ML, Data Analyst Specialist, Automation Engineer Algorithmic Trader and I also craft beautiful 3D Artwork!<br><br>- 🔭 I’m currently working on [Algorithmic Trading Bot](https://www.linkedin.com/feed/) building features for my own purpose.<br>- 🌱 I recently built a program that automatically send code to github repositories [here](visua.com) without human intervention & that create a new repositories if doesn't exist.<br>- 👯 I’m looking to collaborate on Amazing projects including those powered by AI & ML.<br>     - Get in Touch: remotecoderlance@gmail.com<br>- 🤔 I’m looking for help with ...<br>- 💬 Ask me about ...
+- 💬 Ask me about Flutter, Node.js, Blender.
 
 
 # 💻 Tech Stack:
