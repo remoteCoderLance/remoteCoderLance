@@ -1,6 +1,5 @@
-## Hi there 👋
-
-My name is Cedric ABBEY, I'm a Senior Full Stack Developer, AI & ML, Data Analyst Specialist, Automation Engineer Algorithmic Trader and I also craft beautiful 3D Artwork!
+## Hi there 👋 My name is Cedric ABBEY,
+## I'm a Senior Full Stack Developer, AI & ML, Data Analyst Specialist, Automation Engineer Algorithmic Trader and I also craft beautiful 3D Artwork!
 
 - 🔭 I’m currently working on [Algorithmic Trading Bot](https://www.linkedin.com/feed/) building features for my own purpose.
 - 🌱 I recently built a program that automatically send code to github repositories [here](visua.com) without human intervention & that create a new repositories if doesn't exist.
@@ -8,7 +7,7 @@ My name is Cedric ABBEY, I'm a Senior Full Stack Developer, AI & ML, Data Analys
      - Get in Touch: remotecoderlance@gmail.com
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 
+  
 <!--
 **remoteCoderLance/remoteCoderLance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
