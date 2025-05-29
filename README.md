@@ -1,4 +1,4 @@
-## 💫 About Me:
+## 🙋‍♂️ About Me:
 ### I am  Cedric ABBEY; a Senior Full Stack Developer, AI & ML Specialist, Data Analyst, Automation Engineer, Algorithmic Trader and I also craft beautiful 3D Artwork!
 
 - 🔭 I’m currently working on [Algorithmic Trading Bot](https://www.linkedin.com/feed/) building features for my own purpose.
