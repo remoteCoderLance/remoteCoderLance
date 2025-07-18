@@ -6,7 +6,6 @@
 - 🌱 I recently built a program that automatically send code to github repositories [here](visua.com) without human intervention & that create a new repositories if doesn't exist.
 - 👯 I’m looking to collaborate on Amazing projects including those powered by AI & ML.
      - Get in Touch: remotecoderlance@gmail.com
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Flutter, Node.js, Blender.
 
 
